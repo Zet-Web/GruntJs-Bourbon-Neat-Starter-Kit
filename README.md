@@ -1,7 +1,7 @@
 # Front End Starter Kit with Grunt#
 
 ## Dependencies ##
-This repo is dependent on the existence of **Node** and **NPM** on your machine a quick Google search would help you get that done easily depending on your OS.
+This repo is dependent on the existence of **Ruby and SASS**, **Node** and **NPM** on your machine a quick Google search would help you get that done easily depending on your OS.
 
 ## How to? ##
 Once you clone this repo:
@@ -11,9 +11,15 @@ Once you clone this repo:
 3. npm install. After this you'll see a **node_modules** folder under your root.
 4. once you've installed your modules run the grunt command and TADAAAA!!!
 
-## Benefits: ##
+## What's included: ##
+1. Bourbon.
+2. Neat.
+3. Normalize.
+
+## Grunt features: ##
 Automation of :
-1. Error notifications for CSS and JS.
-2. Less to CSS compilation.
+
+1. Error notifications for SASS and JS.
+2. SASS to CSS compilation.
 3. CSS prefixing and minification.
 4. JS uglification.
