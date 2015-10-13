@@ -23,3 +23,5 @@ Automation of :
 2. SASS to CSS compilation.
 3. CSS prefixing and minification.
 4. JS uglification.
+
+This is a fork of https://github.com/DevTips/DevTips-Starter-Kit
