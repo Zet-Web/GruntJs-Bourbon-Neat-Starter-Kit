@@ -1,4 +1,4 @@
-# Front End Starter Kit with Grunt#
+# Front End Starter Kit with Grunt, Sass, Bourbon and Neat#
 
 ## Dependencies ##
 This repo is dependent on the existence of **Ruby and SASS**, **Node** and **NPM** on your machine a quick Google search would help you get that done easily depending on your OS.
