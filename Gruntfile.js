@@ -61,7 +61,7 @@ module.exports = function(grunt) {
                 port: 9665
             },
             sass: {
-                files: ['assets/css/*.sass'],
+                files: ['assets/css/*.sass', "assets/css/*/*.scss"],
                 tasks: ['sass', 'cssmin','notify:sass']
             },
             autoprefixer:{
