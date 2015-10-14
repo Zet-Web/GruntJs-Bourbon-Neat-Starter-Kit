@@ -57,11 +57,11 @@ module.exports = function(grunt) {
         },
         watch: {
             options: {
-                livereload: true,
-                port: 9665
+                livereload: 12345,
+                port: 8069
             },
             sass: {
-                files: ['assets/css/*.sass', "assets/css/*/*.scss"],
+                files: ['assets/css/*.sass','assets/css/**/*.sass', "assets/css/*.scss", "assets/css/**/*.scss"],
                 tasks: ['sass', 'cssmin','notify:sass']
             },
             autoprefixer:{
