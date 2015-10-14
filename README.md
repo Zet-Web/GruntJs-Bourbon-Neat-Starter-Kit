@@ -10,9 +10,11 @@ Once you clone this repo:
 2. once you've installed your modules run the grunt (from the same directory as the GruntFile.js) command and you're all set!!!
 
 ## What's included: ##
-1. Bourbon.
-2. Neat.
-3. Normalize.
+
+1. Normalize (Reset browser styles with configurable settings using Sass).
+2. Bourbon (Sass mixing library).
+3. Neat (Sass Grid Framework).
+3. Easy integration with Bourbon Refills components.
 
 ## Grunt features: ##
 Automation of :
